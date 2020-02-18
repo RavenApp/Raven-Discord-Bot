@@ -1,5 +1,7 @@
 # Ravencoin Discord Bot
 
+**[https://discordapp.com/api/oauth2/authorize?client_id=678986230603448377&permissions=0&scope=bot](Add it to your server!)**
+
 This is a bot for discord that gives you general info about Ravencoin, like price or blockchain info.
 
 Here are the current commands:
